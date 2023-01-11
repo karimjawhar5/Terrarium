@@ -16,8 +16,11 @@ A relay switch
 5. Open your web browser, and enter the ESP8266's IP address in the address bar.
 You should now see a web page displaying the temperature, humidity, and moisture levels, along with an "ON" and "OFF" button to control the light in the terraium.
 
-##Future Imporvments
+##Future Imporvments:
 - Add water pump to control watering the terrarium
 - Add snails! (To terrium)
+
+## Demo Video:
+[![Watch the video](https://github.com/karimjawhar5/Terrarium/blob/main/IMG_2462.jpg?raw=true)](https://youtu.be/xkV4v0WcN7s)
 
 This is a web app that can be controlled by web page which allows you to monitor and control your Terraium with the help of ESP8266
