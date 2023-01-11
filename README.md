@@ -21,6 +21,6 @@ You should now see a web page displaying the temperature, humidity, and moisture
 - Add snails! (To terrium)
 
 ## Demo Video:
-[![Watch the video](https://github.com/karimjawhar5/Terrarium/blob/main/IMG_2462.jpg?raw=true)](https://youtu.be/xkV4v0WcN7s)
+[![Watch the video](https://github.com/karimjawhar5/Terrarium/blob/main/IMG_2462.jpg?raw=true)](https://www.youtube.com/watch?v=NKqiJmwLlXI)
 
 This is a web app that can be controlled by web page which allows you to monitor and control your Terraium with the help of ESP8266
